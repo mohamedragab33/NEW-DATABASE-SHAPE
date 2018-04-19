@@ -1,0 +1,9 @@
+F:\downloads\c#\c# gui tests\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+F:\downloads\c#\c# gui tests\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+F:\downloads\c#\c# gui tests\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+F:\downloads\c#\c# gui tests\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+F:\downloads\c#\c# gui tests\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+F:\downloads\c#\c# gui tests\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+F:\downloads\c#\c# gui tests\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+F:\downloads\c#\c# gui tests\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\curreny_manger.csproj.GenerateResource.Cache
+F:\downloads\c#\c# gui tests\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\curreny_manger.csprojResolveAssemblyReference.cache
